@@ -51,8 +51,8 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-# compile output
-out
+# Output file
+keylogger
 
 *.DS_Store
 .AppleDouble
