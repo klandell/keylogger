@@ -9,7 +9,7 @@ $ git clone https://github.com/klandell/keylogger && cd keylogger
 $ make
 $ nohup `sudo ./out/keylogger` &
 ```
-# Shutdown
+## Shutdown
 ```bash
 $ sudo pkill -f keylogger
 ```

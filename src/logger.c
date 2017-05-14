@@ -25,7 +25,8 @@ void logKeyStroke(int keyCode)
  * @param  keyCode - integer keyCode
  * @return The mapped character
  */
-char *convertKeyCode(int keyCode) {
+char *convertKeyCode(int keyCode)
+{
     switch ((int) keyCode) {
         case 0: return "a";
         case 1: return "s";
